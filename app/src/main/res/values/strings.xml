@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Latihan2_AKB2_10116081_Asfia</string>
+    <string name="belum_punya_akun">doesn\'t have acount? <b>Register</b></string>
+    <string name="Username">Username</string>
+    <string name="pw">Password</string>
+    <string name="login">Login</string>
+    <string name="or">OR</string>
+    <string name="connectfb">CONNECT WITH FACEBOOK</string>
+    <string name="register">Register</string>
+    <string name="male">Male</string>
+    <string name="fml">Female</string>
+    <string name="email">Email</string>
+    <string name="phonenmr">Phone Number</string>
+    <string name="personal">Personal</string>
+    <string name="homeaddress">Home Address</string>
+    <string name="defaultlc">Default Location</string>
+    <string name="bloodtype">Blood Type</string>
+    <string name="job">Job</string>
+    <string name="organization">Organization</string>
+    <string name="send">Send</string>
+    <string name="doesntgetcode">doesn\'t get the code? <b>Resend</b></string>
+    <string name="almost">Almost There</string>
+    <string name="descalmost">Thank you for registering with us. One more \step , you need to check your email to active your account</string>
+    <string name="verify">Verify</string>
+    <string name="verifyaccount">Verify Your Account</string>
+    <string name="descverify">We have send verification code to your email</string>
+    <string name="enterverify">Enter verification code here</string>
+
+</resources>
